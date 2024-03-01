@@ -1,0 +1,62 @@
+.headlineBox {
+    height: 1200px;
+    background-image: url('https://www.pngitem.com/pimgs/m/222-2227129_pokemon-pokedex-hd-png-download.png');
+    background-size: cover;
+    background-position: center;
+    color: black;
+    font-family: 'Rocher'
+    
+}
+.container{
+    
+    padding-left: 530px;
+    padding-top: 340px;
+}
+
+.mew{ 
+    height:250px;
+    width: 250px;
+    padding-left: 700px;
+    
+   
+
+}
+
+.socialProof{
+    text-align: center;
+    font-family: 'Rocher'
+}
+
+
+.closingImage{
+    
+    display: flex;
+    border:  10px;
+    border-color: red;
+}
+.cardsOne{
+    height:400px;
+    width:600px;
+}
+.cardsTwo{
+    height:400px;
+    width:600px;
+}.cardsThree{
+    height:400px;
+    width:600px;
+}
+@font-face {
+    font-family: 'Rocher';
+    src: url(https://assets.codepen.io/9632/RocherColorGX.woff2);
+  }
+
+ .one{
+    font-family: 'Rocher' 
+ }
+
+ .two{
+    font-family: 'Rocher' 
+ } 
+ .three{
+    font-family: 'Rocher' 
+ }
